@@ -1,0 +1,71 @@
+
+.izq{
+  width: 30%;
+  float: left;
+  position:fixed;
+}
+
+body{
+  background-color: #98989b;
+}
+img{
+  width:250px;
+  height: 300px;
+  margin: 15px;
+  border-radius: 10px;
+}
+h1{
+    font: 100% helvetica, sans-serif;
+    color: #26ecef;
+    font-weight: bold;
+    border-bottom:2px solid #26ecef;
+}
+h3{
+    font: 100% helvetica, sans-serif;
+    color: #d15ea5;
+    font-weight: bold;
+  }
+h2{
+  font: 200% helvetica, sans-serif;
+  text-transform: uppercase;
+color: #221fc4;
+}
+.der{
+  width: 60%;
+  float: right;
+}
+.datos {
+    color:red;
+    font-style:italic;
+    list-style: none;
+}
+.titulos{
+  font-family: helvetica, sans-serif;
+  border-radius: 10px;
+  background-color: rgb(245, 245, 220);
+  padding: 3px;
+}
+.Divivcion{
+  margin-bottom: 40px;
+  background-color: white;
+  padding: 40px;
+  border: 30px;
+  border-radius: 10px;
+}
+.link{
+  all: initial;
+}
+.link:hover{
+  all: initial;
+  color: red;
+  text-decoration: underline;
+  letter-spacing: 2px;
+}
+.lista{
+      font: 97% helvetica, sans-serif;
+      margin-bottom: 15px;
+      border-bottom:2px dotted #d15ea5;
+      padding: 0px;
+letter-spacing: 2px;
+list-style-type: none;
+}

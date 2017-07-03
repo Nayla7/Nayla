@@ -1,0 +1,4 @@
+[0603/142418.257:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0603/142418.707:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0603/142418.716:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0603/142420.988:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled

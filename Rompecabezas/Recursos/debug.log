@@ -1,0 +1,123 @@
+[0624/142727.521:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/142728.062:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/142728.090:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/142729.655:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/151942.772:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/151943.376:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/151943.400:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/151946.015:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/152120.659:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152120.908:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152120.919:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/152121.767:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/152313.265:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152313.523:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152313.567:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/152314.248:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/152401.767:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152401.969:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/152402.848:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/152526.726:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152527.064:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/152527.430:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/152849.366:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152849.579:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/152849.596:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/152850.155:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/153201.253:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/153201.552:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/153201.562:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/153202.027:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/153301.496:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/153301.725:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/153302.618:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/153410.059:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/153410.468:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/153410.478:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/153410.759:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/155207.451:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/155207.822:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/155207.833:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/155209.204:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/160055.848:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/160056.368:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/160056.980:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/160344.706:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/160345.027:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/160345.368:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/160528.144:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/160528.576:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/160528.586:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/160528.852:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/162408.971:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/162409.223:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/162409.893:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/165546.473:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/165546.677:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/165547.571:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/171001.781:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/171001.971:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/171001.982:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/171002.930:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/171714.005:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/171714.196:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/171714.205:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/171715.267:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/171753.940:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/171754.172:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/171755.169:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/172238.323:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/172238.685:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/172238.695:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/172241.313:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/174156.939:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/174157.356:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/174157.365:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/174158.866:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/181654.467:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181654.762:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181654.769:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/181655.459:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/181722.734:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181722.929:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181722.957:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/181723.746:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/181832.682:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181832.894:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/181832.903:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/181833.797:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/184558.737:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/184558.995:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/184559.009:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/184559.922:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/185202.389:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/185202.580:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/185202.590:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/185203.518:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/185240.983:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/185241.222:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/185241.624:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0624/185336.561:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/185336.833:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0624/185336.854:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0624/185337.123:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0625/094947.555:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0625/094948.488:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0625/094948.561:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0625/094954.383:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0625/110840.230:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0625/110841.493:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0625/110841.615:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0625/110845.526:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0630/181246.174:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/181246.974:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/181247.131:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0630/181250.815:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0630/182043.397:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/182044.132:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/182044.248:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0630/182045.443:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0630/184326.002:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/184327.221:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Google\Chrome: El sistema no puede encontrar la ruta especificada. (0x3)
+[0630/184327.288:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0630/184328.916:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
